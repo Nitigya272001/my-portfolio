@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/~nitigya/static/css/main.0bd782c5.chunk.css",
+    "main.js": "/~nitigya/static/js/main.3597fcbe.chunk.js",
+    "main.js.map": "/~nitigya/static/js/main.3597fcbe.chunk.js.map",
+    "runtime-main.js": "/~nitigya/static/js/runtime-main.2a7d61e3.js",
+    "runtime-main.js.map": "/~nitigya/static/js/runtime-main.2a7d61e3.js.map",
+    "static/css/2.e904cb11.chunk.css": "/~nitigya/static/css/2.e904cb11.chunk.css",
+    "static/js/2.ba74e2ae.chunk.js": "/~nitigya/static/js/2.ba74e2ae.chunk.js",
+    "static/js/2.ba74e2ae.chunk.js.map": "/~nitigya/static/js/2.ba74e2ae.chunk.js.map",
+    "static/js/3.6a0dc69d.chunk.js": "/~nitigya/static/js/3.6a0dc69d.chunk.js",
+    "static/js/3.6a0dc69d.chunk.js.map": "/~nitigya/static/js/3.6a0dc69d.chunk.js.map",
+    "index.html": "/~nitigya/index.html",
+    "static/css/2.e904cb11.chunk.css.map": "/~nitigya/static/css/2.e904cb11.chunk.css.map",
+    "static/css/main.0bd782c5.chunk.css.map": "/~nitigya/static/css/main.0bd782c5.chunk.css.map",
+    "static/js/2.ba74e2ae.chunk.js.LICENSE.txt": "/~nitigya/static/js/2.ba74e2ae.chunk.js.LICENSE.txt",
+    "static/media/Nitigya.9a91cd5e.docx": "/~nitigya/static/media/Nitigya.9a91cd5e.docx",
+    "static/media/audspire.41bcbcc7.png": "/~nitigya/static/media/audspire.41bcbcc7.png",
+    "static/media/autoadmit.e0879221.png": "/~nitigya/static/media/autoadmit.e0879221.png",
+    "static/media/avs.0223aab4.png": "/~nitigya/static/media/avs.0223aab4.png",
+    "static/media/cblocks.f59a81cd.png": "/~nitigya/static/media/cblocks.f59a81cd.png",
+    "static/media/cour.431ae41c.png": "/~nitigya/static/media/cour.431ae41c.png",
+    "static/media/dekhrekh.913798b2.png": "/~nitigya/static/media/dekhrekh.913798b2.png",
+    "static/media/my.11bcf9f8.jpg": "/~nitigya/static/media/my.11bcf9f8.jpg",
+    "static/media/nitj.8c8907dd.png": "/~nitigya/static/media/nitj.8c8907dd.png",
+    "static/media/slick-theme.css": "/~nitigya/static/media/slick.c94f7671.ttf",
+    "static/media/verzeo.4ebc4ade.png": "/~nitigya/static/media/verzeo.4ebc4ade.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a7d61e3.js",
+    "static/css/2.e904cb11.chunk.css",
+    "static/js/2.ba74e2ae.chunk.js",
+    "static/css/main.0bd782c5.chunk.css",
+    "static/js/main.3597fcbe.chunk.js"
+  ]
+}
