@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.0bd782c5.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.3597fcbe.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.3597fcbe.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.f1d9504e.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.f1d9504e.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.90e56000.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.90e56000.js.map",
     "static/css/2.5daf2271.chunk.css": "/my-portfolio/static/css/2.5daf2271.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.5daf2271.chunk.css.map": "/my-portfolio/static/css/2.5daf2271.chunk.css.map",
     "static/css/main.0bd782c5.chunk.css.map": "/my-portfolio/static/css/main.0bd782c5.chunk.css.map",
     "static/js/2.ba74e2ae.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.ba74e2ae.chunk.js.LICENSE.txt",
-    "static/media/Nitigya.9a91cd5e.docx": "/my-portfolio/static/media/Nitigya.9a91cd5e.docx",
+    "static/media/Nitigya.84a270f0.docx": "/my-portfolio/static/media/Nitigya.84a270f0.docx",
     "static/media/audspire.41bcbcc7.png": "/my-portfolio/static/media/audspire.41bcbcc7.png",
     "static/media/autoadmit.e0879221.png": "/my-portfolio/static/media/autoadmit.e0879221.png",
     "static/media/avs.0223aab4.png": "/my-portfolio/static/media/avs.0223aab4.png",
@@ -31,6 +31,6 @@
     "static/css/2.5daf2271.chunk.css",
     "static/js/2.ba74e2ae.chunk.js",
     "static/css/main.0bd782c5.chunk.css",
-    "static/js/main.3597fcbe.chunk.js"
+    "static/js/main.f1d9504e.chunk.js"
   ]
 }
